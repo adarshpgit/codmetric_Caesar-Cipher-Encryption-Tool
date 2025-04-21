@@ -34,7 +34,7 @@ pyinstaller --onefile --windowed caesar_cipher_tool.py
 Find your .exe in the dist/ folder.
 
 📸 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 🧠 About the Caesar Cipher
 The Caesar Cipher is one of the simplest and most widely known encryption techniques. Each letter in the plaintext is shifted a certain number of places down the alphabet.
